@@ -1,0 +1,7 @@
+{
+  "name": "terra-server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "node terra-server.js" },
+  "engines": { "node": ">=18" }
+}
